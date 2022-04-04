@@ -1,4 +1,4 @@
-# 100-Days-Of-Code
+# A-Year-Of-Code
 
 My plan is to:
 1- Code at-least an hour daily.
