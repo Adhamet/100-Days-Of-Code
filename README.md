@@ -17,11 +17,18 @@ My goals are to:
 Progress
 ---------------------------------------------------------------------------------------------------------
 Progress (Day2): 
+
 Progress (Day1): 
+
+
+
 
 
 ---------------------------------------------------------------------------------------------------------
 
+
 FORM OF REPOSITORY WILL BE CHANGED. ACCOUNT WILL BE IMPROVED.
+
 PICTURE OF THE ACCOUNT AT DAY 1:
+
 ![acc](https://user-images.githubusercontent.com/98621817/161599532-2d92dd24-716a-438f-a33d-dea7411c666e.png)
