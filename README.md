@@ -12,11 +12,12 @@ My goals are to:
 
 4- Spend more time on Linux.
 
+
 5- Daily progress will be recorded here
-
 ---------------------------------------------------------------------------------------------------------
+Progress (Day2): 
 Progress (Day1): 
-
+---------------------------------------------------------------------------------------------------------
 
 FORM OF REPOSITORY WILL BE CHANGED. ACCOUNT WILL BE IMPROVED.
 PICTURE OF THE ACCOUNT AT DAY 1:
