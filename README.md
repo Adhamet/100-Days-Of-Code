@@ -16,10 +16,14 @@ My goals are to:
 
 Progress
 ---------------------------------------------------------------------------------------------------------
-Progress (Day2): 
+**Progress (Day2): **
 
-Progress (Day1): 
-Solved some codeforces problems. Learnt some CSS, JS, HTML. Seen some of Scrimba's HTML&CSS course. Built my first website (Morse Code Translator): https://ibb.co/T129P9f
+**Progress (Day1): **
+Solved some codeforces problems. 
+
+Learnt some CSS, JS, HTML. Seen some of Scrimba's HTML&CSS course. 
+
+Built my first website (Morse Code Translator): https://ibb.co/T129P9f , https://github.com/Adhamet/General-Problems/tree/main/Morse_Code_Translator
 
 
 
