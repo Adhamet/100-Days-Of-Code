@@ -17,14 +17,15 @@ My goals are to:
 Progress
 ---------------------------------------------------------------------------------------------------------
 *Progress (Day3):
-
+<br></br>
 
 *Progress (Day2): 
 Built a discord-welcome-bot as an MLH challenge. Solved many codeforces problems. Learnt more about IS.
 
 The Discord Bot: https://github.com/Adhamet/Discord-Welcome-Bot
+<br></br>
 
-*Progress (Day1):
+<u><b><span style = 'font-size: 50;'>Progress (Day1)</u></b></span>:
 Solved some codeforces problems. 
 
 Learnt some CSS, JS, HTML. Seen some of Scrimba's HTML&CSS course. 
