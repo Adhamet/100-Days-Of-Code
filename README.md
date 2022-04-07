@@ -16,7 +16,13 @@ My goals are to:
 
 Progress
 ---------------------------------------------------------------------------------------------------------
-*Progress (Day2):
+*Progress (Day3):
+
+
+*Progress (Day2): 
+Built a discord-welcome-bot as an MLH challenge. Solved many codeforces problems. Learnt more about IS.
+
+The Discord Bot: https://github.com/Adhamet/Discord-Welcome-Bot
 
 *Progress (Day1):
 Solved some codeforces problems. 
