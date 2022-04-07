@@ -16,16 +16,16 @@ My goals are to:
 
 Progress
 ---------------------------------------------------------------------------------------------------------
-*Progress (Day3):
+<b>Progress (Day3)</b>:
 <br></br>
 
-*Progress (Day2): 
+<b>progress (Day2)</b>: 
 Built a discord-welcome-bot as an MLH challenge. Solved many codeforces problems. Learnt more about IS.
 
 The Discord Bot: https://github.com/Adhamet/Discord-Welcome-Bot
 <br></br>
 
-<u><b><span style = 'font-size: 50;'>Progress (Day1)</u></b></span>:
+<b>Progress (Day1)</b>:
 Solved some codeforces problems. 
 
 Learnt some CSS, JS, HTML. Seen some of Scrimba's HTML&CSS course. 
