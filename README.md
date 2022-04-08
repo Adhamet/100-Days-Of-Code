@@ -16,7 +16,10 @@ My goals are to:
 
 Progress
 ---------------------------------------------------------------------------------------------------------
-<b>Progress (Day3)</b>:
+<b>Progress (Day4)</b>:
+<br></br>
+
+<b>Progress (Day3)</b>: I solved even more code-forces & uploaded them, solved some easy build-a-program college questions. I made some progress in Scrimba's HTML course. Then I built a Social-Media platform using DeSo under the constructions of Developer relations Engineer: Ty Fischer as a challenge for MLH GHW 2022.
 <br></br>
 
 <b>progress (Day2)</b>: 
