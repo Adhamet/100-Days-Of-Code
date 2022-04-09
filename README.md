@@ -16,7 +16,7 @@ My goals are to:
 
 Progress
 ---------------------------------------------------------------------------------------------------------
-<b>Progress (Day4)</b>:
+<b>Progress (Day4)</b>: I finished up my social media platform. I learnt the basics of cloud-computing and what it's about, used firebase. Finished half of Scrimba's HTML & CSS course.
 <br></br>
 
 <b>Progress (Day3)</b>: I solved even more code-forces & uploaded them, solved some easy build-a-program college questions. I made some progress in Scrimba's HTML course. Then I built a Social-Media platform using DeSo under the constructions of Developer relations Engineer: Ty Fischer as a challenge for MLH GHW 2022.
