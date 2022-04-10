@@ -16,6 +16,9 @@ My goals are to:
 
 Progress
 ---------------------------------------------------------------------------------------------------------
+<b>Progress (Day5)</b>: Studied my classes and almost done with my CSS and HTML scrimba course. Then took a rest for the day. 
+<br></br>
+
 <b>Progress (Day4)</b>: I finished up my social media platform. I learnt the basics of cloud-computing and what it's about, used firebase. Finished half of Scrimba's HTML & CSS course.
 <br></br>
 
