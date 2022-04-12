@@ -16,6 +16,8 @@ My goals are to:
 
 Progress
 ---------------------------------------------------------------------------------------------------------
+<b>Progress (Day6)</b>: 
+
 <b>Progress (Day5)</b>: Studied my classes and almost done with my CSS and HTML scrimba course. Then took a rest for the day. 
 <br></br>
 
