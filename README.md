@@ -16,24 +16,26 @@ My goals are to:
 
 Progress
 ---------------------------------------------------------------------------------------------------------
-<b>Progress (Day6)</b>: 
+<b>Progress (Day7) [Day 13/April/2022]</b>: 
 
-<b>Progress (Day5)</b>: Studied my classes and almost done with my CSS and HTML scrimba course. Then took a rest for the day. 
+<b>Progress (Day6) [Day 12/April/2022]</b>: Finished up three college subjects, solved some problems and published them.
+
+<b>Progress (Day5) [Day 11/April/2022]</b>: Studied my classes and almost done with my CSS and HTML scrimba course. Then took a rest for the day. 
 <br></br>
 
-<b>Progress (Day4)</b>: I finished up my social media platform. I learnt the basics of cloud-computing and what it's about, used firebase. Finished half of Scrimba's HTML & CSS course.
+<b>Progress (Day4) [Day 10/April/2022]</b>: I finished up my social media platform. I learnt the basics of cloud-computing and what it's about, used firebase. Finished half of Scrimba's HTML & CSS course.
 <br></br>
 
-<b>Progress (Day3)</b>: I solved even more code-forces & uploaded them, solved some easy build-a-program college questions. I made some progress in Scrimba's HTML course. Then I built a Social-Media platform using DeSo under the constructions of Developer relations Engineer: Ty Fischer as a challenge for MLH GHW 2022.
+<b>Progress (Day3) [Day 9/April/2022]</b>: I solved even more code-forces & uploaded them, solved some easy build-a-program college questions. I made some progress in Scrimba's HTML course. Then I built a Social-Media platform using DeSo under the constructions of Developer relations Engineer: Ty Fischer as a challenge for MLH GHW 2022.
 <br></br>
 
-<b>progress (Day2)</b>: 
+<b>progress (Day2) [Day 8/April/2022]</b>: 
 Built a discord-welcome-bot as an MLH challenge. Solved many codeforces problems. Learnt more about IS.
 
 The Discord Bot: https://github.com/Adhamet/Discord-Welcome-Bot
 <br></br>
 
-<b>Progress (Day1)</b>:
+<b>Progress (Day1) [Day 7/April/2022]</b>:
 Solved some codeforces problems. 
 
 Learnt some CSS, JS, HTML. Seen some of Scrimba's HTML&CSS course. 
