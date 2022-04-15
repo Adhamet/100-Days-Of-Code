@@ -16,9 +16,19 @@ My goals are to:
 
 Progress
 ---------------------------------------------------------------------------------------------------------
-<b>Progress (Day7) [Day 13/April/2022]</b>: 
+<b>Progress (Day9) [Day 15/April/2022]</b>:
+<br></br>
+
+<b>Progress (Day8) [Day 14/April/2022]</b>: Finished HTML & CSS scrimba course
+
+![finished](https://user-images.githubusercontent.com/98621817/163564272-a77062b7-0119-4b93-97e0-4404fee7002a.png)
+<br></br>
+
+<b>Progress (Day7) [Day 13/April/2022]</b>: Built a website through scrimba, spent the rest of the day studying MATH 251
+<br></br>
 
 <b>Progress (Day6) [Day 12/April/2022]</b>: Finished up three college subjects, solved some problems and published them.
+<br></br>
 
 <b>Progress (Day5) [Day 11/April/2022]</b>: Studied my classes and almost done with my CSS and HTML scrimba course. Then took a rest for the day. 
 <br></br>
