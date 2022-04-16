@@ -16,7 +16,7 @@ My goals are to:
 
 Progress
 ---------------------------------------------------------------------------------------------------------
-<b>Progress (Day9) [Day 15/April/2022]</b>:
+<b>Progress (Day10) [Day 16/April/2022]</b>: Finished MATH 251, finished most subjects. Almost done with Scrimba's JavaScript's passenger counter app
 <br></br>
 
 <b>Progress (Day9) [Day 15/April/2022]</b>: Started with JS, almost done with MATH 251. Got both of Microsoft's digital literacy certificates:
