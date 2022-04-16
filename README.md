@@ -19,6 +19,11 @@ Progress
 <b>Progress (Day9) [Day 15/April/2022]</b>:
 <br></br>
 
+<b>Progress (Day9) [Day 15/April/2022]</b>: Started with JS, almost done with MATH 251. Got both of Microsoft's digital literacy certificates:
+https://www.linkedin.com/learning/certificates/aef8f7db48a1702c0308b103a3bbbdc7adc65c90b5ce950349aea522e26b4769
+https://www.linkedin.com/learning/certificates/4bedd233ac1fb085d6cbac8bb8300b370ac21c274822eef88371de268f246450
+<br></br>
+
 <b>Progress (Day8) [Day 14/April/2022]</b>: Finished HTML & CSS scrimba course
 
 ![finished](https://user-images.githubusercontent.com/98621817/163564272-a77062b7-0119-4b93-97e0-4404fee7002a.png)
