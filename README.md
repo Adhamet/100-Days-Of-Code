@@ -16,6 +16,9 @@ My goals are to:
 
 Progress
 ---------------------------------------------------------------------------------------------------------
+<b>Progress (Day11) [Day 17/April/2022]</b>: Finished first part of Scrimba's JS course, built a passage counter website: https://github.com/Adhamet/React-JS/tree/main/Java-Script/passenger-Counter
+<br></br>
+
 <b>Progress (Day10) [Day 16/April/2022]</b>: Finished MATH 251. Almost finished Scrimba's JS, build a passenger counter website.
 <br></br>
 <b>Progress (Day9) [Day 15/April/2022]</b>: Started with JS, almost done with MATH 251. Got both of Microsoft's digital literacy certificates:
