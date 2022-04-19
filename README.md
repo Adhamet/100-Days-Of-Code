@@ -16,7 +16,7 @@ My goals are to:
 
 Progress
 ---------------------------------------------------------------------------------------------------------
-<b>Progress (Day11) [Day 17/April/2022]</b>: Finished Scrimba's Practice Time part 1.
+<b>Progress (Day12) [Day 18/April/2022]</b>: Finished Scrimba's Practice Time part 1.
 <br></br>
 
 <b>Progress (Day11) [Day 17/April/2022]</b>: Finished first part of Scrimba's JS course, built a passage counter website: https://github.com/Adhamet/React-JS/tree/main/Java-Script/passenger-Counter
