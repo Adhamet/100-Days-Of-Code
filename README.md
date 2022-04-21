@@ -16,6 +16,15 @@ My goals are to:
 
 Progress
 ---------------------------------------------------------------------------------------------------------
+<b>Progress (Day15) [Day 18/April/2022]</b>:
+<br></br>
+
+<b>Progress (Day14) [Day 20/April/2022]</b>: Started with CS50X's week 4, memory.
+<br></br>
+
+<b>Progress (Day13) [Day 19/April/2022]</b>: Finished CS50X's week 3 & along with tideman.
+<br></br>
+
 <b>Progress (Day12) [Day 18/April/2022]</b>: Finished Scrimba's Practice Time part 1.
 <br></br>
 
