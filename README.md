@@ -16,7 +16,10 @@ My goals are to:
 
 Progress
 ---------------------------------------------------------------------------------------------------------
-<b>Progress (Day15) [Day 18/April/2022]</b>:
+<b>Progress (Day15) [Day 22/April/2022]</b>: 
+<br></br>
+
+<b>Progress (Day15) [Day 21/April/2022]</b>: Finished CS50X's week 4, memory.
 <br></br>
 
 <b>Progress (Day14) [Day 20/April/2022]</b>: Started with CS50X's week 4, memory.
@@ -25,7 +28,7 @@ Progress
 <b>Progress (Day13) [Day 19/April/2022]</b>: Finished CS50X's week 3 & along with tideman.
 <br></br>
 
-<b>Progress (Day12) [Day 18/April/2022]</b>: Finished Scrimba's Practice Time part 1.
+<b>Progress (Day12) [Day 18/April/2022]</b>: Finished Scrimba's JS Practice Time part 1.
 <br></br>
 
 <b>Progress (Day11) [Day 17/April/2022]</b>: Finished first part of Scrimba's JS course, built a passage counter website: https://github.com/Adhamet/React-JS/tree/main/Java-Script/passenger-Counter
