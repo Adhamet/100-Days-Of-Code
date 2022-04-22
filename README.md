@@ -16,7 +16,7 @@ My goals are to:
 
 Progress
 ---------------------------------------------------------------------------------------------------------
-<b>Progress (Day15) [Day 22/April/2022]</b>: 
+<b>Progress (Day16) [Day 22/April/2022]</b>: 
 <br></br>
 
 <b>Progress (Day15) [Day 21/April/2022]</b>: Finished CS50X's week 4, memory.
