@@ -18,6 +18,8 @@ Progress
 ---------------------------------------------------------------------------------------------------------
 
 <b>Progress (Day18) [Day 24/April/2022]</b>: Did more CPC (problem-solving). Finished Practice-Time part 2 in Scrimba's JS course.
+<br></br>
+--------------------------
 
 <b>Progress (Day17) [Day 23/April/2022]</b>: Solved CPC (problem-solving);
 <br></br>
