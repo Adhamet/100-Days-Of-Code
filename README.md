@@ -16,6 +16,9 @@ My goals are to:
 
 Progress
 ---------------------------------------------------------------------------------------------------------
+<b>Progress (Day17) [Day 23/April/2022]</b>: Solved CPC (problem-solving);
+<br></br>
+--------------------------
 <b>Progress (Day16) [Day 22/April/2022]</b>: Built a Black-Jack website game, now done with more than half of Scrimba's JS's course. Finished Week 4 of CS50X. Got a typing certificate from typing.com
 
 links:<br></br>
