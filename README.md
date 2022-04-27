@@ -17,7 +17,12 @@ My goals are to:
 Progress
 ---------------------------------------------------------------------------------------------------------
 
-<b>Progress (Day20) [Day 26/April/2022]</b>: 
+<b>Progress (Day21) [Day 27/April/2022]</b>:
+<br></br>
+
+---------------------------
+
+<b>Progress (Day20) [Day 26/April/2022]</b>: Joined a CPC problem-contest, achieved 5th place, solved 3 problems out of 6, could've solved more.
 <br></br>
 
 ---------------------------
