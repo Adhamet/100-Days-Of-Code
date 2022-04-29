@@ -23,7 +23,7 @@ Progress
 --------------------------
 
 <b>Progress (Day22) [Day 28/April/2022]</b>: Started Scrimba Chrome Extension
-</br>
+<br></br>
 
 ---------------------------
 
