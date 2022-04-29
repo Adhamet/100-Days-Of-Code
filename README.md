@@ -17,7 +17,12 @@ My goals are to:
 Progress
 ---------------------------------------------------------------------------------------------------------
 
-<b>Progress (Day22) [Day 28/April/2022]</br>: 
+<b>Progress (Day23) [Day 29/April/2022]</br>: Built java-script programs to help in an IS project, contributed with my friends.
+<br></br>
+
+--------------------------
+
+<b>Progress (Day22) [Day 28/April/2022]</br>: Started Scrimba Chrome Extension
 <br></br>
 
 ---------------------------
@@ -32,7 +37,7 @@ Progress
 
 ---------------------------
 
-<b>Progress (Day19) [Day 25/April/2022]</b>: Mostly studied college lectures. Built a little bit of a chrome extension (Scrimba's JS Course).
+<b>Progress (Day19) [Day 25/April/2022]</b>: Mostly studied college lectures. Solved CPC problems.
 <br></br>
 
 --------------------------
