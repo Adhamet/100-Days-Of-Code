@@ -17,7 +17,12 @@ My goals are to:
 Progress
 ---------------------------------------------------------------------------------------------------------
 
-<b>Progress (Day23) [Day 29/April/2022]</br>: Built java-script programs to help in an IS project, contributed with my friends.
+<b>Progress (Day24) [Day 30/April/2022]</b>: 
+<br></br>
+
+--------------------------
+
+<b>Progress (Day23) [Day 29/April/2022]</b>: Built java-script programs to help in an IS project, contributed with my friends.
 <br></br>
 
 --------------------------
