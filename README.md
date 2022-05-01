@@ -17,6 +17,11 @@ My goals are to:
 Progress
 ---------------------------------------------------------------------------------------------------------
 
+<b>Progress (Day25) [Day 1/May/2022]</b>: Did some simple web-development coding, trying to catch up with my college subjects.
+<br></br>
+
+--------------------------
+
 <b>Progress (Day24) [Day 30/April/2022]</b>: 
 <br></br>
 
