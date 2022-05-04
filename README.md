@@ -17,12 +17,27 @@ My goals are to:
 Progress
 ---------------------------------------------------------------------------------------------------------
 
+<b>Progress(Day28) [Day 4/May/2022]</b>: Put an hour in Scrimba's JS course.
+<br></br>
+
+--------------------------
+
+<b>Progress (Day27) [Day 3/May/2022]</b>: Was terribly sick, barely did some C++ college problem solving.
+<br></br>
+
+--------------------------
+
+<b>Progress (Day26) [Day 2/May/2022]</b>: Put an hour in CS50X
+<br></br>
+
+-------------------------
+
 <b>Progress (Day25) [Day 1/May/2022]</b>: Did some simple web-development coding, trying to catch up with my college subjects.
 <br></br>
 
 --------------------------
 
-<b>Progress (Day24) [Day 30/April/2022]</b>: 
+<b>Progress (Day24) [Day 30/April/2022]</b>: Finished up IS project codes.
 <br></br>
 
 --------------------------
