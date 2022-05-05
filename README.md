@@ -17,6 +17,11 @@ My goals are to:
 Progress
 ---------------------------------------------------------------------------------------------------------
 
+<b>Progress(Day29) [Day 5/May/2022]</b>: Put another hour in Scrimba's JS course.
+<br></br>
+
+--------------------------
+
 <b>Progress(Day28) [Day 4/May/2022]</b>: Put an hour in Scrimba's JS course. The "Build A Chrome Extension" section is filled with new information! Looks like this is going to take a little longer than expected.
 <br></br>
 
