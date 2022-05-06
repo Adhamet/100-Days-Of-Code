@@ -17,6 +17,9 @@ My goals are to:
 Progress
 ---------------------------------------------------------------------------------------------------------
 
+<b>Progress(Day30) [Day 6/May/2022]</b>: Put another hour in Scrimba's JS course. Learnt about JSON files and used manifest.json to deploy the extension.
+<br></br>
+
 <b>Progress(Day29) [Day 5/May/2022]</b>: Put another hour in Scrimba's JS course.
 <br></br>
 
