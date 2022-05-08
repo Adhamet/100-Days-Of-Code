@@ -17,7 +17,13 @@ My goals are to:
 Progress
 ---------------------------------------------------------------------------------------------------------
 
+<b>Progress(Day32) [Day 8/May/2022]</b>: Barely spent an hour in Scrimba's JS, have two huge exams tomorrow and time is tight.
+<br></br>
+
+---------------------------
+
 <b>Progress(Day31) [Day 7/May/2022]</b>: Put another hour in Scrimba's JS course. Learnt LocalStorage and how to use it. Also I am almost done with the course, there's only 30 minutes left. After I'm done, I will start ES6, it's very short but that's good, cause my goal is to learn React-JS, which I can reach after I'm done with the main three programming languages (HTML,JS,CSS);
+<br></br>
 
 --------------------------
 
