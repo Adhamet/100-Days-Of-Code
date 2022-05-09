@@ -17,6 +17,11 @@ My goals are to:
 Progress
 ---------------------------------------------------------------------------------------------------------
 
+<b>Progress(Day33) [Day 9/May/2022]</b>: Solved college problems on recursion.
+<br></br>
+
+---------------------------
+
 <b>Progress(Day32) [Day 8/May/2022]</b>: Barely spent an hour in Scrimba's JS, have two huge exams tomorrow and time is tight.
 <br></br>
 
