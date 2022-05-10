@@ -17,6 +17,10 @@ My goals are to:
 Progress
 ---------------------------------------------------------------------------------------------------------
 
+<b>Progress(Day34) [Day 10/May/2022]</b>: Built the Chrome Extension, only how to do the practice-time 3 session and I will be done! I have a-lot of free time these coming days so I have a-lot to wrap up!
+
+---------------------------
+
 <b>Progress(Day33) [Day 9/May/2022]</b>: Solved college problems on recursion.
 <br></br>
 
