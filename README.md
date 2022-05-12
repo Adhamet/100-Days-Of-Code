@@ -17,7 +17,18 @@ My goals are to:
 Progress
 ---------------------------------------------------------------------------------------------------------
 
+<b>Progress(Day 36) [Day 12/May/2022]</b>: I AM FINALLY DONE WITH PRACTICE-TIME 3! I learnt a-lot from this course.
+<br></br>
+
+---------------------------
+
+<b>Progress(Day 35) [Day 11/May/2022]</b>: Spent a-lot of time building practice-time 3, it's very complicated!
+<br></br>
+
+---------------------------
+
 <b>Progress(Day34) [Day 10/May/2022]</b>: Built the Chrome Extension, only how to do the practice-time 3 session and I will be done! I have a-lot of free time these coming days so I have a-lot to wrap up!
+<br></br>
 
 ---------------------------
 
