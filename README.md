@@ -102,19 +102,21 @@ Images: ![WhatsApp Image 2022-05-12 at 10 30 50 AM](https://user-images.githubus
 
 <b>Progress (Day20) [Day 26/April/2022]</b>: Joined a CPC problem-contest, achieved 5th place, solved 3 problems out of 6, could've solved more.
 
-link: https://github.com/Adhamet/General/tree/main/Codeforces/CPC/weeklyContest-One
+links: https://github.com/Adhamet/General/tree/main/Codeforces/CPC/weeklyContest-One
 <br></br>
 
 ---------------------------
 
 <b>Progress (Day19) [Day 25/April/2022]</b>: Mostly studied college lectures. Solved CPC problems.
-https://github.com/Adhamet/General/tree/main/Codeforces/CPC/thrd_Lecture
+
+links: https://github.com/Adhamet/General/tree/main/Codeforces/CPC/thrd_Lecture
 <br></br>
 
 --------------------------
 
 <b>Progress (Day18) [Day 24/April/2022]</b>: Did more CPC (problem-solving). Finished Practice-Time part 2 in Scrimba's JS course.
-https://github.com/Adhamet/General/tree/main/Codeforces/CPC/scnd_Lecture
+
+links: https://github.com/Adhamet/General/tree/main/Codeforces/CPC/scnd_Lecture
 <br></br>
 
 --------------------------
