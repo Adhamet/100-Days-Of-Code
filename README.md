@@ -17,6 +17,11 @@ My goals are to:
 Progress
 ---------------------------------------------------------------------------------------------------------
 
+<b>Progress(Day 37) [Day 13/May/2022]</b>: I started ES6 and I am almost done with it.
+<br></br>
+
+---------------------------
+
 <b>Progress(Day 36) [Day 12/May/2022]</b>: I AM FINALLY DONE WITH PRACTICE-TIME 3! I learnt a-lot from this course.
 
 Images: ![WhatsApp Image 2022-05-12 at 10 30 50 AM](https://user-images.githubusercontent.com/98621817/168035498-056f8189-823e-4455-a412-24610ec5006e.jpeg)
