@@ -17,7 +17,7 @@ My goals are to:
 Progress
 ---------------------------------------------------------------------------------------------------------
 
-<b>Progress(Day 39) [Day 15/May/2022]</b>: Finished CS50X's lecture, problem set and lab is left, did some problem-solving.
+<b>Progress(Day 40) [Day 16/May/2022]</b>: Finished CS50X's lecture, problem set and lab is left, did some problem-solving.
 <br></br>
 
 ---------------------------
