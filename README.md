@@ -17,7 +17,12 @@ My goals are to:
 Progress
 ---------------------------------------------------------------------------------------------------------
 
-<b>Progress(Day 40) [Day 16/May/2022]</b>: Finished CS50X's lecture, problem set and lab is left, did some problem-solving.
+<b>Progress(Day 41) [Day 17/May/2022]</b>: Helped in an explanation course of github.
+<br></br>
+
+---------------------------
+
+<b>Progress(Day 40) [Day 16/May/2022]</b>: Done some leet-code.
 <br></br>
 
 ---------------------------
