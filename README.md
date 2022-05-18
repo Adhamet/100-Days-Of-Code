@@ -17,6 +17,11 @@ My goals are to:
 Progress
 ---------------------------------------------------------------------------------------------------------
 
+<b>Progress(Day 42) [Day 18/May/2022]</b>: Solved Leet-code problems for one hour.
+<br></br>
+
+--------------------------
+
 <b>Progress(Day 41) [Day 17/May/2022]</b>: Helped in an explanation course of github.
 <br></br>
 
