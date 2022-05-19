@@ -16,6 +16,11 @@ My goals are to:
 
 Progress
 ---------------------------------------------------------------------------------------------------------
+ 
+<b>Progress(Day 43) [Day 19/May/2022]</b>: Started React-JS, spent one hour on it. Did some leet-code problem-solving.
+<br></br>
+
+--------------------------
 
 <b>Progress(Day 42) [Day 18/May/2022]</b>: Solved Leet-code problems for one hour.
 <br></br>
