@@ -17,6 +17,15 @@ My goals are to:
 Progress
 ---------------------------------------------------------------------------------------------------------
  
+<b>Progress(Day 45) [Day 21/May/2022]</b>: Started Week 6 CS50X;
+<br></br>
+ 
+------------------------
+
+<b>Progress(Day 44) [Day20/May/2022]</b>: Finished Week 5 CS50X;
+<br></br>
+ 
+------------------------
 <b>Progress(Day 43) [Day 19/May/2022]</b>: Started React-JS, spent one hour on it. Did some leet-code problem-solving.
 <br></br>
 
