@@ -17,10 +17,15 @@ My goals are to:
 Progress
 ---------------------------------------------------------------------------------------------------------
  
+<b>Progress(Day 47) [Day 23/May/2022]</b>: Studied conio.h library, started Week 7 CS50X;
+<br></br>
+
+-------------------------
 <b>Progress(Day 46) [Day 22/May/2022]</b>: Finished Week 6 CS50X;
 <br></br>
  
 ------------------------
+
 <b>Progress(Day 45) [Day 21/May/2022]</b>: Started Week 6 CS50X;
 <br></br>
  
