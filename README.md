@@ -16,6 +16,8 @@ My goals are to:
 
 # Progress
 
+-----------------------------
+
 Progress (Day 49) [Day 25/May/2022]: Spent the whole day on qwiklab using gcloud, learnt a little about DevOps and deployments. Got my first badge.
 <br></br>
 
