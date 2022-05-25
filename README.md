@@ -15,6 +15,11 @@ My goals are to:
 5- Record daily progress.
 
 # Progress
+
+Progress (Day 49) [Day 25/May/2022]: Spent the whole day on qwiklab using gcloud, learnt a little about DevOps and deployments. Got my first badge.
+<br></br>
+
+-----------------------------
  
 Progress(Day 48) [Day 24/May/2022]: Contributed in a git session and a flutter session.
 <br></br>
