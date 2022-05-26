@@ -18,6 +18,10 @@ My goals are to:
 
 -----------------------------
 
+Progress (Day 50) [Day 26/May/2022]: Finished Week 7 CS50X, contributed in a flutter session.
+
+-----------------------------
+
 Progress (Day 49) [Day 25/May/2022]: Spent the whole day on qwiklab using gcloud, learnt a little about DevOps and deployments. Got my first badge.
 <br></br>
 
