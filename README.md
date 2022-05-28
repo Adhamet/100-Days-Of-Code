@@ -16,6 +16,8 @@ My goals are to:
 
 # Progress
 
+Progress (Day 52) [Day 28/May/2022]: Spent the day working on an IS presentation. Did some linux coding on ML level 0.
+
 -----------------------------
 
 Progress (Day 51) [Day 27/May/2022]: Organized github repositories. Applied git language. Started Week 8 CS50X, studied more on LEVEL 0 ML.
