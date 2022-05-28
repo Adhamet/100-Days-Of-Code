@@ -18,6 +18,10 @@ My goals are to:
 
 -----------------------------
 
+Progress (Day 51) [Day 27/May/2022]: Organized github repositories. Applied git language. Started Week 8 CS50X, studied more on LEVEL 0 ML.
+
+-----------------------------
+
 Progress (Day 50) [Day 26/May/2022]: Finished Week 7 CS50X, contributed in a flutter session.
 
 -----------------------------
