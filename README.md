@@ -16,7 +16,7 @@ My goals are to:
 
 # Progress
 
-Progress (Day 53) [Day 29/May/2022]: Participated in an IS session, did some coding for CS.
+Progress (Day 53) [Day 29/May/2022]: Participated in an IS session, did some coding for CS exam
 
 -----------------------------
 
