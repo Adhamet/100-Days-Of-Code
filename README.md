@@ -16,11 +16,15 @@ My goals are to:
 
 # Progress
 
-Progress (Day 55) [Day 31/May/2022]: Finished Week 8 CS50X's lecture, did some problem-solving.
+Progress (Day 56) [Day 1/June/2022]: Finished Week 8 CS50X, did problem-solving.
 
 -----------------------------
 
-Progress (Day 54) [Day 30/May/2022]: Did some problem solving.
+Progress (Day 55) [Day 31/May/2022]: Did some leet-code problem-solving.
+
+-----------------------------
+
+Progress (Day 54) [Day 30/May/2022]: Did some colleguate problem-solving.
 
 -----------------------------
 
