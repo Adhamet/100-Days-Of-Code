@@ -16,6 +16,14 @@ My goals are to:
 
 # Progress
 
+Progress (Day 58) [Day 3/June/2022]: Did some problem-solving, leet-code and codeforces.
+
+-----------------------------
+
+Progress (Day 57) [Day 2/June/2022]: Started Week 9 CS50X, solved leet-code problems.
+
+-----------------------------
+
 Progress (Day 56) [Day 1/June/2022]: Finished Week 8 CS50X, did problem-solving.
 
 -----------------------------
