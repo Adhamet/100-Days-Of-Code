@@ -16,6 +16,8 @@ My goals are to:
 
 # Progress
 
+Progress (Day 59) [Day 4/June/2022]: Did some leet-code and codeforces problems
+
 Progress (Day 58) [Day 3/June/2022]: Did some problem-solving, leet-code and codeforces.
 
 -----------------------------
