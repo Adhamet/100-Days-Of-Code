@@ -16,7 +16,13 @@ My goals are to:
 
 # Progress
 
+Progress (Day 60) [Day 5/June/2022]: Did some codeforces problem solving, participated in an ML course.
+
+----------------------------
+
 Progress (Day 59) [Day 4/June/2022]: Did some leet-code and codeforces problems
+
+----------------------------
 
 Progress (Day 58) [Day 3/June/2022]: Did some problem-solving, leet-code and codeforces.
 
