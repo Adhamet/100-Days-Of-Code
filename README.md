@@ -16,6 +16,10 @@ My goals are to:
 
 # Progress
 
+Progress (Day 61) [Day 6/June/2022]: Did some ML coding with Titanic (Kaggle) using its data-sets.
+
+-----------------------------
+
 Progress (Day 60) [Day 5/June/2022]: Did some codeforces problem solving, participated in an ML course.
 
 ----------------------------
