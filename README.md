@@ -16,6 +16,10 @@ My goals are to:
 
 # Progress
 
+Progress (Day 62) [Day 7/June/2022]: Problem-solving.
+
+-----------------------------
+
 Progress (Day 61) [Day 6/June/2022]: Did some ML coding with Titanic (Kaggle) using its data-sets.
 
 -----------------------------
