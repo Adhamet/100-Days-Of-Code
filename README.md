@@ -15,6 +15,8 @@ My goals are to:
 5- Record daily progress.
 
 # Progress
+t
+
 
 Progress (Day 62) [Day 7/June/2022]: Problem-solving.
 
