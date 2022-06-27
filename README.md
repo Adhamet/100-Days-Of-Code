@@ -1,4 +1,4 @@
-# A-Year-Of-Code
+# 100-Days-Of-Code
 
 My plan is to: Code at-least an hour daily, and try to commit to github as much as I can.
 
@@ -14,9 +14,19 @@ My goals are to:
 
 5- Record daily progress.
 
-# Progress
-t
+# Attemp 2 Progress
 
+Progress (Day 2) [Day 27/June/2022]: Studied some machine-learning.
+
+Progress (Day 1) [Day 26/June/2022]: Studied some machine-learning.
+
+---------
+---------
+---------
+
+# Attempt 1 Progress (FAILED)
+
+FAILED DUE TO EXAMS.
 
 Progress (Day 62) [Day 7/June/2022]: Problem-solving.
 
