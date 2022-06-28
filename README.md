@@ -16,6 +16,8 @@ My goals are to:
 
 # Attemp 2 Progress
 
+Progress (Day 3) [Day 28/June/2022]: Studied more machine-learning. In bamboo-geeks course powered by google.
+
 Progress (Day 2) [Day 27/June/2022]: Studied some machine-learning.
 
 Progress (Day 1) [Day 26/June/2022]: Studied some machine-learning.
