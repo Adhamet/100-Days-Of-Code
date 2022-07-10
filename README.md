@@ -16,7 +16,9 @@ My goals are to:
 
 # Attemp 2 Progress
 
-Progress (Day 1) [Day 3/July/2022]: Studied more machine-learning. In bamboo-geeks course powered by google. Did some problem-solving with C++.
+Progress (Day 2) [Day 11/July/2022]: Finished Week 8 and started 9 CS50X, did some problem-solving.
+
+Progress (Day 1) [Day 10/July/2022]: Studied more machine-learning. In bamboo-geeks course powered by google. Did some problem-solving with C++.
 
 ---------
 ---------
