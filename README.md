@@ -14,13 +14,13 @@ My goals are to:
 
 5- Record daily progress.
 
-# Attemp 2 Progress
+# Attempt 2 Progress
 
-Progress (Day 3) [Day 21/July/2022]: Studied DFS and trees and solved on them.
+Progress (Day 3) [Day 25/December/2022]: Solved 2 UVAs.
 
-Progress (Day 2) [Day 20/July/2022]: Built an info-site solving week-8 of cs50x and starting week-9.
+Progress (Day 2) [Day 24/December/2022]: Solved 6 codeforces problems, 2 UVAs.
 
-Progress (Day 1) [Day 19/July/2022]: Did some leet-code problem-solving.
+Progress (Day 1) [Day 23/December/2022]: Solved 6 codeforces problems.
 
 ---------
 ---------
