@@ -16,6 +16,26 @@ My goals are to:
 
 # Attempt 2 Progress
 
+Progress (Day 13) [Day 4/January/2023]:
+
+Progress (Day 12) [Day 3/January/2023]:
+
+Progress (Day 11) [Day 2/January/2023]:
+
+Progress (Day 10) [Day 1/January/2023]:
+
+Progress (Day 9) [Day 31/December/2022]:
+
+Progress (Day 8) [Day 30/December/2022]:
+
+Progress (Day 7) [Day 29/December/2022]:
+
+Progress (Day 6) [Day 28/December/2022]:
+
+Progress (Day 5) [Day 27/December/2022]:
+
+Progress (Day 4) [Day 26/December/2022]:
+
 Progress (Day 3) [Day 25/December/2022]: Solved 2 UVAs.
 
 Progress (Day 2) [Day 24/December/2022]: Solved 6 codeforces problems, 2 UVAs.
