@@ -2,7 +2,7 @@
 
 My plan is to: Code at-least an hour daily, and try to commit to github as much as I can.
 
-My goals are to:
+My goals are to:.
 
 1- Open up to the digital world. (GOALS ARE DOWN FOR UPDATE AS I LEARN MORE)
 
